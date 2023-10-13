@@ -1,4 +1,22 @@
-header{
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.parteSuperior{
     background-color: #29d103;
     color: #000000;
+    display: flex;
+    justify-content:space-between;
+    padding: 24px 10px;
+}
+.cabeça{
+   width: 30%;
+   height: 40%;
+}
+.projeto{
+    display: inline-block;
+    margin: 28px 64px;
+    font-size: 35px;
+    font-style: initial;
 }
