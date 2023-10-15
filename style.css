@@ -76,4 +76,6 @@ html{
 .navegação{
     width: 65%;
     margin-top: 30px;
+    margin-left: 200px;
+    justify-content: center;
 }
